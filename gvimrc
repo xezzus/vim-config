@@ -63,6 +63,7 @@ else
     set guioptions-=L
     set guioptions-=b
     set guioptions-=h
+    set guioptions-=e
     set lines=50
     set columns=150
 endif
@@ -78,9 +79,9 @@ set nowrap
 set scrolljump=10
 set scrolloff=10
 set fileformat=unix
-set tabstop=4
-set softtabstop=4
-set shiftwidth=4
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
 set expandtab
 set smarttab
 set autoindent
